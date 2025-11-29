@@ -14,7 +14,7 @@
 - [**信報財經新聞 (HKEJ)**](信報財經新聞/Readme.md)
 - [**星島日報 (Sing Tao)**](星島日報/Readme.md)
 - [**東方日報 (Oriental Daily)**](東方日報/readme.md)
-- [**獨立媒體 (InMedia)**](獨立媒體/Readme.md) *(待補)*
+- [**獨立媒體 (InMedia)**](獨立媒體/Readme.md)
 - [**集誌社 (The Collective)**](集誌社/Readme.md) *(待補)*
 - [**法庭線 (The Witness)**](法庭線/Readme.md) *(待補)*
 - [**BBC 中文網**](BBC%20中文網/Readme.md)

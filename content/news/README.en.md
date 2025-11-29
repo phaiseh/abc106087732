@@ -14,7 +14,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**HKEJ (Hong Kong Economic Journal)**](信報財經新聞/Readme.md)
 - [**Sing Tao Daily**](星島日報/Readme.md)
 - [**Oriental Daily**](東方日報/readme.md)
-- [**InMedia**](獨立媒體/Readme.md) *(Pending)*
+- [**InMedia**](獨立媒體/Readme.md)
 - [**The Collective**](集誌社/Readme.md) *(Pending)*
 - [**The Witness**](法庭線/Readme.md) *(Pending)*
 - [**BBC Chinese**](BBC%20中文網/Readme.md)
