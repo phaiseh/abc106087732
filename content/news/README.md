@@ -8,7 +8,7 @@
 - [**香港電台 (RTHK)**](RTHK%20香港電台/Readme.md)
 - [**有線新聞 (i-Cable)**](有線新聞/Readme.md) *(待補)*
 - [**無綫新聞 (i-Cable)**](無綫新聞/Readme.md) *(待補)*
-- [**商業電台 (Commercial Radio)**](商業電台/Readme.md) *(待補)*
+- [**商業電台 (Commercial Radio)**](商業電台/Readme.md)
 - [**香港 01 (HK01)**](HK01/README.MD)
 - [**明報 (Ming Pao)**](明報/Readme.md) *(待補)*
 - [**信報財經新聞 (HKEJ)**](信報財經新聞/Readme.md)

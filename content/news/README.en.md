@@ -8,7 +8,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**RTHK**](RTHK%20香港電台/Readme.md)
 - [**i-Cable News**](有線新聞/Readme.md) *(Pending)*
 - [**TVB News**](無綫新聞/Readme.md) *(Pending)*
-- [**Commercial Radio**](商業電台/Readme.md) *(Pending)*
+- [**Commercial Radio**](商業電台/Readme.md)
 - [**HK01**](HK01/README.MD)
 - [**Ming Pao**](明報/Readme.md) *(Pending)*
 - [**HKEJ (Hong Kong Economic Journal)**](信報財經新聞/Readme.md)
