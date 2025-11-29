@@ -165,3 +165,4 @@ Aborting
 2025-11-29 02:41:04 | INFO     | Found 41 new URLs to scrape
 2025-11-29 03:41:27 | INFO     | Scraper results: 32 success, 9 failed
 2025-11-29 03:41:27 | INFO     | Committing changes...
+2025-11-29 03:41:27 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 03:41
